@@ -1,17 +1,17 @@
-body {
+body, h1{
   background-color: #9CC2EC;
 }
-
 
 h1{
 color: #3348A9;
 text-align: center;
+font-family: Georgia, serif
 	
 }
 p{
 background: #F8EB88;
 text-align: center;
-	
-	
+color: #999036;
 	
 }
+
